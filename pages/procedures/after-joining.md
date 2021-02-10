@@ -11,4 +11,6 @@ Software development is a team sport. Accelerator teams are of size 2 or 3. (Sol
 1. If you do not find a team within 24 hours, please message Monarch Wadia or Jennifer Tang on Discord.
 1. Update the [pages/teams.md] page with your info.
 
-## Step 2: Receive your requirements
+## Step 2: Begin coding
+
+That's it, you're in! Now you can start coding. Take a look at [Coding](pages/procedures/coding.md) to see next steps.

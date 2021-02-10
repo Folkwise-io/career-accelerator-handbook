@@ -10,7 +10,11 @@ This handbook is a community-maintained document that outlines how the program w
 
 ## Table of Contents
 
+- [After Joining](pages/procedures/after-joining.md)
+- [Coding](pages/procedures/coding.md)
 - [How to join Mintbean](pages/how-to-join-mintbean.md)
+- [Pull requests](pages/procedures/pull-requests.md)
+- [Teams](pages/teams.md)
 
 ## What Mintbean does.
 
