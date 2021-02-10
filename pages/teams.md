@@ -10,12 +10,15 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 - John Doge, Recent Alumnus, [NuCamp](https://www.nucamp.co/), [Twitter](https://twitter.com/dogecoin?lang=en), [LinkedIn](https://www.linkedin.com/company/dogecoin/), [Github](https://github.com/dogecoin/dogecoin)
 
 ## Team Name: In Progress. . .
-- Joe Cotterchio, web dev, [Twitter](https://twitter.com/CotterchioJoe), [LinkedIn](https://www.linkedin.com/in/joe-cotterchio-milligan/), [Github] (https://github.com/josephcotterchio)
+
+- Joe Cotterchio, web dev, [Twitter](https://twitter.com/CotterchioJoe), [LinkedIn](https://www.linkedin.com/in/joe-cotterchio-milligan/), [Github](https://github.com/josephcotterchio)
+- Andrew Lloyd, freelance full stack dev, [Twitter](https://twitter.com/ArlDev), [LinkedIn](https://www.linkedin.com/in/andrewlloyd01/), [Github](https://github.com/andrewrlloyd88) [Website](https://arlmedia.ca/)
 
 > Add your team here!
 
 ## I do not have a team yet
-- Hussain Sajib, looking for employement, [Twitter](https://twitter.com/HussainulMd), [LinkedIn](https://www.linkedin.com/in/hussainulislam/), [GitHub](https://github.com/HussainIslam), [Website]( https://iamhussain.ca/)
+
+- Hussain Sajib, looking for employement, [Twitter](https://twitter.com/HussainulMd), [LinkedIn](https://www.linkedin.com/in/hussainulislam/), [GitHub](https://github.com/HussainIslam), [Website](https://iamhussain.ca/)
 
 - Rahul Jain, Software Developer, [Github] (https://github.com/rahulj93)
 
