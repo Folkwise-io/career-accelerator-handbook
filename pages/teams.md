@@ -12,10 +12,9 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 > Add your team here!
 
 ## Team No. 2 : name pending
-Khuong Le, Software Engineer, [Searching] (https://www.linkedin.com/jobs/), [Twitter] (https://twitter.com/KhuongL74779776), [LinkedIn] (https://www.linkedin.com/in/khuonghle4/), [Github] (https://github.com/khnghle)
+Khuong Le, Software Engineer, [Searching](https://www.linkedin.com/jobs/), [Twitter](https://twitter.com/KhuongL74779776), [LinkedIn](https://www.linkedin.com/in/khuonghle4/), [Github](https://github.com/khnghle)
 
-Ashbalt... details pending
-
+Asharon Baltazar, Junior frontend developer, Unemployed, [LinkedIn](linkedin.com/in/asharon-baltazar), [GitHub](github.com/asharonbaltazar)
 ## I do not have a team yet
 
 (Please fill in "Firstname Lastname, Title, Company, Twitter, LinkedIn, Github")
