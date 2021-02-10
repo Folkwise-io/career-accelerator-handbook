@@ -14,6 +14,12 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 
 > Add your team here!
 
+## Team Name: In Progress. . .
+
+- Hussain Sajib, looking for employement, [Twitter](https://twitter.com/HussainulMd), [LinkedIn](https://www.linkedin.com/in/hussainulislam/), [GitHub](https://github.com/HussainIslam), [Website]( https://iamhussain.ca/)
+
+- Rahul Jain, Software Developer, [Github](https://github.com/rahulj93)
+
 ## I do not have a team yet
 - Hussain Sajib, looking for employement, [Twitter](https://twitter.com/HussainulMd), [LinkedIn](https://www.linkedin.com/in/hussainulislam/), [GitHub](https://github.com/HussainIslam), [Website]( https://iamhussain.ca/)
 
