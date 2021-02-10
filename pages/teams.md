@@ -12,7 +12,7 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 ## Team Name: In Progress. . .
 
 - Joe Cotterchio, web dev, [Twitter](https://twitter.com/CotterchioJoe), [LinkedIn](https://www.linkedin.com/in/joe-cotterchio-milligan/), [Github](https://github.com/josephcotterchio)
-- Andrew Lloyd, freelance full stack dev, [Twitter](https://twitter.com/ArlDev), [LinkedIn](https://www.linkedin.com/in/andrewlloyd01/), [Github](https://github.com/andrewrlloyd88) [Website](https://arlmedia.ca/)
+- Andrew Lloyd, freelance full stack dev, [Twitter](https://twitter.com/ArlDev), [LinkedIn](https://www.linkedin.com/in/andrewlloyd01/), [Github](https://github.com/andrewrlloyd88), [Website](https://arlmedia.ca/)
 
 > Add your team here!
 
