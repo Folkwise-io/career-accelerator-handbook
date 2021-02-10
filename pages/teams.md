@@ -11,6 +11,11 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 
 > Add your team here!
 
+Team No. 1
+Khuong Le, Software Engineer, [Searching] (https://www.linkedin.com/jobs/), [Twitter] (https://twitter.com/KhuongL74779776), [LinkedIn] (https://www.linkedin.com/in/khuonghle4/), [Github] (https://github.com/khnghle)
+
+Ashbalt...
+
 ## I do not have a team yet
 
 (Please fill in "Firstname Lastname, Title, Company, Twitter, LinkedIn, Github")
