@@ -8,6 +8,10 @@ This program has been organized by [Mintbean](https://mintbean.io)
 
 This handbook is a community-maintained document that outlines how the program works.
 
+## How to contribute to this handbook
+
+Simply make your change and open up a [Pull Request](pages/procedures/pull-requests.md)
+
 ## Table of Contents
 
 - [After Joining](pages/procedures/after-joining.md)
