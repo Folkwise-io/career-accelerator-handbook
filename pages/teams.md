@@ -29,4 +29,6 @@ Khuong Le, Software Engineer, [Searching](https://www.linkedin.com/jobs/), [Twit
 
 Asharon Baltazar, Junior frontend developer, Unemployed, [LinkedIn](linkedin.com/in/asharon-baltazar), [GitHub](github.com/asharonbaltazar)
 
+- Dipto Karmakar, Full-stack web developer, Looking for new opportunity [Github](https://github.com/dipto0321), [LinkedIn](<[https://](https://www.linkedin.com/in/diptokarmakar/)>)
+
 > Add your name here!
