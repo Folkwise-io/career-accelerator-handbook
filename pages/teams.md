@@ -13,7 +13,7 @@ Hi there! This is a list of current teams. If you need to add or remove your nam
 
 - Joe Cotterchio, web dev, [Twitter](https://twitter.com/CotterchioJoe), [LinkedIn](https://www.linkedin.com/in/joe-cotterchio-milligan/), [Github](https://github.com/josephcotterchio)
 - Andrew Lloyd, freelance full stack dev, [Twitter](https://twitter.com/ArlDev), [LinkedIn](https://www.linkedin.com/in/andrewlloyd01/), [Github](https://github.com/andrewrlloyd88), [Website](https://arlmedia.ca/)
-  Connie Tran, web dev, [Twitter](https://twitter.com/_connietweets_), [LinkedIn](https://www.linkedin.com/in/connietran1/), [Github](https://github.com/connietran-dev)
+- Connie Tran, web dev, [Twitter](https://twitter.com/_connietweets_), [LinkedIn](https://www.linkedin.com/in/connietran1/), [Github](https://github.com/connietran-dev)
 
 > Add your team here!
 
